@@ -1,8 +1,21 @@
 # Name:Sowon Park  
 # SBUID: 115242731
-
+##################### SCORE ######################
+####### good work Score:  8/10
+#################################################
 # Remove the ellipses (...) when writing your solutions.
-
+# your output:
+# (base) D:\CSE 101 Ass1\Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27>D:/anaconda/python.exe "d:/CSE 101 Ass1/Assignment 1 - Functions and Arithmetic-04-05-2023-05-19-27/sowonpark127/Homework_1.py"
+# Please enter a temperature in degree Fahrenheit: 44
+# Sweater --> correct
+# x1: -4
+# y1: -4
+# x2: -5
+# y2: 5
+# x3: 3
+# y3: -3
+# The area of the triangle is : 32.0 , its perimeter is : 27.440161448987652--> correct
+# The area of the polygon is : 236.59292911256335 --> wrong
 # ---------------------------- Exercise I ---------------------------------------
 # ----------------- Convert Fahrenheit to Celsius -------------------------------
 # TODO: Complete the implementation of fahrenheit2celsius () and what_to_wear(). 
